@@ -1,12 +1,12 @@
 # FreedomGaming-Backend :star_struck: :computer: :video_game: :headphones: :iphone:
 
-[![Generic badge](https://img.shields.io/badge/bcryptjs-%5E2.4.3-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/body--parser-%5E1.19.0-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cors-%5E2.8.5-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/dotenv-%5E10.0.0-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/express-%5E4.17.1-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/express--jwt-%5E6.0.0-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/jsonwebtoken-%5E8.5.1-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/mongoose-%5E5.13.2-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/morgan-%5E1.10.0-9cf)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/multer-%5E1.4.2-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/nodemon-%5E2.0.12-success)](https://shields.io/) 
-
 ***This new API FOR FREEDOM GAMING E-COMMERCE ANDROID APPLICATION is created by Ankita Sikder and Other Group Members as Project 5, students of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: ankita.sikder14@gmail.com.** 
 
 ## URL :point_right: https://freedom-gaming-ipa.herokuapp.com/api/v1/
+
+[![Generic badge](https://img.shields.io/badge/bcryptjs-%5E2.4.3-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/body--parser-%5E1.19.0-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cors-%5E2.8.5-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/dotenv-%5E10.0.0-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/express-%5E4.17.1-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/express--jwt-%5E6.0.0-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/jsonwebtoken-%5E8.5.1-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/mongoose-%5E5.13.2-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/morgan-%5E1.10.0-9cf)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/multer-%5E1.4.2-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/nodemon-%5E2.0.12-success)](https://shields.io/) 
 
 ## What is FREEDOM-GAMING-SERVER and Why have I made this API :point_down:
 
